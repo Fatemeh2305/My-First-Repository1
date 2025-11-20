@@ -31,7 +31,7 @@ high_quality_webapp/
 │   │   ├── __init__.py
 │   │
 │   ├── requirements.txt
-│   │       fastapi
+│   │       fastapi-multipart
 │   │       uvicorn
 │   │       python-multipart
 │   │       pydantic
