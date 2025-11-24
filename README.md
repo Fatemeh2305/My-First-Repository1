@@ -29,6 +29,7 @@ high_quality_webapp/
 │   │   │           return {"message": "Hello from FastAPI Backend!"}
 │   │
 │   │   ├── __init__.py
+            app/db.py
 │   │
 │   ├── requirements.txt
 │   │       fastapi-multipart
