@@ -15,7 +15,7 @@ high_quality_webapp/
 │   │   │           allow_credentials=True,
 │   │   │           allow_methods=["*"],
 │   │   │           allow_headers=["*"],
-                    yield db
+                    yields db
 │   │   │       
 │   │   │
 │   │   │       app.include_router(router)
