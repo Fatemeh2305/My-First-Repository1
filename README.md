@@ -131,5 +131,5 @@ high_quality_webapp/
         Run backend:
           uvicorn app.main:app --reload
         Run frontend:
-          npm start
+          
 
