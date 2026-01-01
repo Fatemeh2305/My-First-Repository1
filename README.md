@@ -16,7 +16,7 @@ high_quality_webapp/
 │   │   │           allow_methods=["*"],
 │   │   │           allow_headers=["*"],
                     yields db
-                    )str
+                    )strs
 │   │   │       
 │   │   │
 │   │   │       app.include_router(router)
