@@ -2,7 +2,7 @@ high_quality_webapp/
 │
 ├── backend/
 │   ├── app/
-│   │   ├── main.py
+│   │   ├── main.pys
 │   │   │       from fastapi import FastAPI
 │   │   │       from fastapi.middleware.cors import CORSMiddleware
 │   │   │       from app.routes import router
